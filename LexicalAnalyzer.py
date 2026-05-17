@@ -1,5 +1,5 @@
 import sys
-
+#try
 class NFAState:
     def __init__(self):
         self.transitions = {}  # {char: [states]}
